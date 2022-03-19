@@ -1,0 +1,13 @@
+/* body::after {
+    content: "";
+    background-image: url('https://image.tmdb.org/t/p/w500//4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg');
+    background-size: cover;
+    -webkit-mask-image: linear-gradient(to top, transparent 25%, black 100%);
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+  } */
