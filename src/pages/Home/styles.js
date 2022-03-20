@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 
 export const Container = styled.div`
+
     h1 {
         text-align: center;
         margin: 4rem 0;
@@ -39,5 +40,27 @@ export const Movie = styled.li`
 
     a:hover {
         transform: scale(1.1);
+    }
+`
+
+export const NavButtons = styled.div`
+    display: flex;
+    justify-content: center;
+
+    button {
+        margin: 3rem;
+        background: #6654da;
+        border: none;
+        cursor: pointer;
+        border-radius: 1rem;
+        color: white;
+        padding: 0.8rem 2rem;
+        margin-top: 1rem;
+        font-size: 100%;
+        transition: all .3s;
+    }
+
+    button:hover{
+        background: #5848c2;
     }
 `

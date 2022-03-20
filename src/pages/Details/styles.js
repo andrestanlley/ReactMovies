@@ -4,7 +4,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
 
     background: linear-gradient(to bottom, rgba(0,0,0,0.8), black),
-    url(${(props) => props.url});
+    url(${(props) => props.bg});
     background-repeat: no-repeat;
     background-size: cover;
     
