@@ -1,6 +1,6 @@
 # ReactMovies
 Projeto em React para consumir a API do TMDB, mostrando uma lista de filmes populares e os detalhes de cada título.<br>
-<a href="https://reactmovies-one.vercel.app/" target="_blank">Clique para acessar</a>
+[Clique para acessar](https://reactmovies-one.vercel.app/)
 
 ## Página inicial
 ![image](https://user-images.githubusercontent.com/82134080/159136413-533d2c5b-2b56-46a3-ab5d-4f85c3a743e3.png)
