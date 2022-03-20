@@ -1,3 +1,3 @@
-let key = process.env.API_KEY
+let key = ""
 
 export default key;
