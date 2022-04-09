@@ -17,7 +17,7 @@ Projeto em React para consumir a API do TMDB, mostrando uma lista de filmes popu
 npm install
 ```
 
-2 - Insira sua chave de API da TMDB no arquivo key.js
+2 - Insira sua chave de API da TMDB no arquivo .env
 
 3 - Execute para iniciar
 ```node
